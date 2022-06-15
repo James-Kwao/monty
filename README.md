@@ -15,7 +15,7 @@ can handle a varity opcodes, including printing, mathmatical operations, and mor
 ------------------------
 clone these repository to your machine:
 ```
-$ git clone https://github.com/Fraol123/monty.git
+
 ```
 compile with the following:
 ```
@@ -59,14 +59,8 @@ Run monty on file:
 
 :blue_book: AUTHOR
 -------------------
-:computer:Fraol Tolera 
 
 :trumpet: Acknowldgement
 ---------------------------- 
-
-- Holberton School- for giving these challenging project and providing guidlines
-- ALX- sensei 
-- stack overflow - providing solution as needed
-
  
  
